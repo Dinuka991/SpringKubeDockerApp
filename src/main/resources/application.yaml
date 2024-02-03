@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /user-service
+  port: 9090
