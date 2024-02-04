@@ -1,1 +1,1 @@
-GET http://localhost:9090/user-service/users
+GET http://localhost:9091/user-service/users
